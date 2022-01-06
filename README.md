@@ -15,8 +15,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancarecevich&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 ### Contatos:
 
